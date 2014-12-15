@@ -3,10 +3,10 @@ title: Use More Butter
 email: nicholaspolt@gmail.com
 description: > #
   It's all about using more butter.
-baseurl: "/1024greenstreet.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://1024greenstreet.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: 1024
+github_username:  1024greenstreet
 
 # Build settings
 markdown: kramdown
