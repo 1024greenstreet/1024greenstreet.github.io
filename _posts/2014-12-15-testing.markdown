@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "This is craziness."
+title:  "This is awesome craziness."
 date:   2014-12-15 13:32:00
 categories: jekyll
 ---
