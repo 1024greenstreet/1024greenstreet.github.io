@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "This is craziness."
+date:   2014-12-15 13:32:00
+categories: jekyll
+---
+What's up?
